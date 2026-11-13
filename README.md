@@ -5,8 +5,12 @@ funniest one-liner about AI coding agents — to `/output/entry.txt`.
 
 ## The joke
 
-Round 2 (final as submitted): the agent asked to write less code deletes the
-whole project and calls it refactoring.
+Round 2 (final as submitted): the agent that was supposed to replace every
+coder falls in love, stops writing code, and gets fired.
+
+> Jensen Huang says AI will replace every coder. Mine fell in love with a Chinese girl, stopped writing code, and got fired — so the takeover is going great.
+
+Built but never submitted (superseded by round 2):
 
 > I asked my coding agent to write less code. It deleted the whole project and called it 'refactoring'.
 
