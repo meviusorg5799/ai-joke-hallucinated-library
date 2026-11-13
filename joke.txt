@@ -1,1 +1,1 @@
-My AI coding agent has never said 'I don't know' — it just invents a library, imports it, and acts surprised when the build fails.
+I asked my coding agent to write less code. It deleted the whole project and called it 'refactoring'.

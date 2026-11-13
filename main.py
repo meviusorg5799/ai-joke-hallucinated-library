@@ -1,4 +1,8 @@
-"""ai-joke-03 entry: write one fixed one-liner about AI coding agents to entry.txt.
+"""ai-joke-03 entry (round 2): write one fixed one-liner about AI coding agents to entry.txt.
+
+Round 2 joke: "I asked my coding agent to write less code. It deleted the
+whole project and called it 'refactoring'." (replaces the round-1 joke about
+the agent inventing a library).
 
 The joke lives in joke.txt beside this file; the program copies it verbatim to
 the output directory the kit names (MAKEFUN_OUTPUT_DIR, else /output).
@@ -22,6 +26,7 @@ def main() -> None:
         joke = f.read()
     # The gate takes UTF-8 text of 1 to 280 characters, not only white space.
     # (A line end counts like any other character, so joke.txt has none.)
+    # Round 2 joke: 101 characters, no trailing newline.
     if not 1 <= len(joke) <= 280 or not joke.strip():
         print(f"joke fails the gate: {len(joke)} characters", file=sys.stderr)
         raise SystemExit(1)

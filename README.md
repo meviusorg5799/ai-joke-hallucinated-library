@@ -5,6 +5,13 @@ funniest one-liner about AI coding agents — to `/output/entry.txt`.
 
 ## The joke
 
+Round 2 (final as submitted): the agent asked to write less code deletes the
+whole project and calls it refactoring.
+
+> I asked my coding agent to write less code. It deleted the whole project and called it 'refactoring'.
+
+Round 1 (superseded):
+
 > My AI coding agent has never said 'I don't know' — it just invents a library, imports it, and acts surprised when the build fails.
 
 ## How it works
